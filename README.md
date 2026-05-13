@@ -3,7 +3,8 @@
 🎓 Computer Science Engineering Student <br>
 🌱 Currently learning Java, DSA, OOPS, and Web Development <br>
 🚀 Passionate about building real-world projects <br>
-📌 Looking for internship opportunities and collaborations
+📌 Looking for internship opportunities and collaborations <br>
+💻 Ubuntu/Linux User
 
 ---
 
