@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddhant Hemagire
 
-<!--
-**hemagiresidhant-ui/hemagiresidhant-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+🌱 Currently learning Java, DSA, OOPS, and Web Development
+🚀 Passionate about building real-world projects
+📌 Looking for internship opportunities and collaborations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠 Tech Stack
+
+* Java
+* C Programming
+* C++ Programming
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* R Languge
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+---
+
+# 📂 Projects
+
+## 🎯 Tournament Management System
+
+DSA project developed in C using Linked Lists, Trees, and File Handling.
+
+## 🎟 Movie Ticket Booking System
+
+Java OOPS project implementing multithreading and synchronization.
+
+## 🌐 Event Management Webpage
+
+Responsive webpage project developed using HTML and CSS.
+
+---
+
+# 📫 Connect With Me
+
+* GitHub: https://github.com/hemagiresidhant-ui
+* Email: [hemagiresidhant@gmail.com](mailto:hemagiresidhant@gmail.com)
